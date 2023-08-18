@@ -1,0 +1,14 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Getting Started"
+      url: "getting-started"
+- title: "About"
+  url: "docs/about"
+  links:
+    - title: Terms-of-Service
+      url: "about/terms-of-service"
+    - title: Privacy Policy
+      url: "about/privacy-policy"
+    - title: Refund Policy
+      url: "about/refund-policy"
