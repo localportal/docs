@@ -23,11 +23,11 @@ curl -L https://localportal/install | sudo sh
 
 ### Windows
 
-Currently, Localportal does not provide native support for Windows operating systems. We understand that this may be a crucial feature for some users, and we're actively working to expand our platform compatibility. If you're eager to see Windows support in Localportal, please help us prioritize this feature by upvoting the request on [here](https://support.localportal.io).
+Currently, Localportal does not provide native support for Windows operating systems. We understand that this may be a crucial feature for some users, and we're actively working to expand our platform compatibility. If you're eager to see Windows support in Localportal, please help us prioritize this feature by upvoting the request on [here](https://localportal.io/support).
 
 ### Docker
 
-Docker support for Localportal is in our roadmap, and our development team is working diligently to bring this feature to you. Your input and feedback can guide our development priorities, so if Docker support is essential for your use case, please upvote the feature request on our [support page](https://support.localportal.io).
+Docker support for Localportal is in our roadmap, and our development team is working diligently to bring this feature to you. Your input and feedback can guide our development priorities, so if Docker support is essential for your use case, please upvote the feature request on our [support page](https://localportal.io/support).
 
 
 ## Linking Your Machine

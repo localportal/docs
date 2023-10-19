@@ -1,14 +1,20 @@
 - title: Documentation
-  url: docs
+  url: 
   links:
     - title: "Getting Started"
       url: "getting-started"
-- title: "About"
-  url: "docs/about"
+    - title: "Naming Your Link Server"
+      url: "naming-your-link-server"
+- title: "Company"
+  url: "company"
   links:
     - title: Terms-of-Service
-      url: "about/terms-of-service"
+      url: "company/terms-of-service"
     - title: Privacy Policy
-      url: "about/privacy-policy"
+      url: "company/privacy-policy"
     - title: Refund Policy
-      url: "about/refund-policy"
+      url: "company/refund-policy"
+    - title: About Us
+      url: "company/about-us"
+    - title: DPA
+      url: "company/data-processing-addendum"

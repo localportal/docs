@@ -12,7 +12,7 @@ By accessing and using **[localportal.io](http://localserve.io/)** or installing
 
 Localportal may modify these Terms at any time, and such modifications will be effective immediately upon posting on the Site. It is your responsibility to review the Terms periodically to ensure awareness of any changes.
 
-This Agreement includes Localportal’s Privacy Policy, which is accessible at [privacy policy](https://docs.localportal.io/about/privacy-policy). Please review it to understand how we manage personal information.
+This Agreement includes Localportal’s Privacy Policy, which is accessible at [privacy policy](https://localportal.io/docs/company/privacy-policy). Please review it to understand how we manage personal information.
     
 
 ## Account Creation and Responsibility
@@ -33,9 +33,9 @@ Localportal is not responsible for any extra bank fees, interest charges, financ
     
 You must ensure that Localportal is entitled to use any data, information, or material provided, submitted, or otherwise made available by you or on behalf of you to Localportal in the course of using the Localportal Services (“Customer Data”) as needed to provide you with the functionality of the Localportal Services. We collect various types of Customer Data, including your email address, operating system, IP address, resource specifications, and the number of servers running on the user's machine. These details might be saved in our database or logs.
 
-Additionally, we use cookies for authentication and other purposes to enhance your user experience. By using our Services, you consent to our use of cookies and the collection and processing of the Customer Data in accordance with our Privacy Policy, located at **[https://docs.localportal.io/about/privacy-policy](https://docs.localportal.io/about/privacy-policy)**, and our Data Processing Agreement, located at **[https://docs.localportal.io/about/dpa](https://docs.localportal.io/about/dpa)**.
+Additionally, we use cookies for authentication and other purposes to enhance your user experience. By using our Services, you consent to our use of cookies and the collection and processing of the Customer Data in accordance with our Privacy Policy, located at **[https://localportal.io/docs/company/privacy-policy](/docs/company/privacy-policy)**, and our Data Processing Agreement, located at **[https://localportal.io/docs/company/data-processing-addendum](/docs/company/data-processing-addendum)**.
 
-Localportal complies with the General Data Protection Regulation (GDPR) for users in the European Economic Area (EEA). For detailed information on how we handle and process personal data in compliance with GDPR, please refer to our Data Processing Agreement, located at **[https://docs.localportal.io/about/dpa](https://docs.localportal.io/about/dpa)**.
+Localportal complies with the General Data Protection Regulation (GDPR) for users in the European Economic Area (EEA). For detailed information on how we handle and process personal data in compliance with GDPR, please refer to our Data Processing Agreement, located at **[https://localportal.io/docs/company/data-processing-addendum](/docs/company/data-processing-addendum)**.
 
 You acknowledge and agree that Localportal may use Customer Data to improve your use of the Localportal Services and may use aggregated and anonymized Customer Data to improve the Localportal Services generally. We may also access, preserve, and disclose your account information and other Customer Data if required to do so by any applicable law or if we in good faith believe that such access, preservation, or disclosure is reasonably necessary to: (i) comply with any applicable legal process; (ii) enforce this Agreement; (iii) respond to claims that any Customer Data violates the rights of third parties; (iv) respond to your requests for customer service; or (v) protect the rights, property, or personal safety of Localportal, its customers, and/or users, and/or the public. In no event shall Localportal or its designees have any liability or obligation to you in connection with exercising any rights set forth in this Section.
 

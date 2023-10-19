@@ -6,7 +6,7 @@ Last Updated: August 18, 2023
 
 Your privacy is crucial to us. Localportal (referred to here as “we” or “Localportal") has crafted this Privacy Policy (this “Policy”) to enlighten visitors to the localportal.com website (the "Site") and potential or prospective customers of Localportal (collectively referred to in this Policy as “customers” or “you”) about our practices in collecting, using, and disclosing personal data. In this Policy, we refer to the Site and interactions you have with us as a potential or prospective customer as the "Localportal Services" or the "Services." If you are using Localportal Services in connection with an account you have with us, additional terms may apply. Please refer to your agreement with Localportal for any specific provisions related to privacy.
 
-This Policy is incorporated into our Terms of Service located at [**https://docs.localportal.io/about/terms-of-service**](https://docs.localportal.io/about/terms-of-service). We may update this Policy occasionally, as specified in the “Changes to This Policy” section below.
+This Policy is incorporated into our Terms of Service located at [**https://localportal.io/docs/company/terms-of-service**](/docs/company/terms-of-service). We may update this Policy occasionally, as specified in the “Changes to This Policy” section below.
 
 ## Information We Collect
 
