@@ -18,7 +18,7 @@ brew install localportal/tap/localportal
 For all other OS, run the following command:
 
 ```bash
-curl -L https://localportal/install | sudo sh
+curl -L https://localportal.io/install | sudo sh
 ```
 
 ### Windows
