@@ -91,7 +91,7 @@ YOU AGREE TO DEFEND, HOLD HARMLESS AND INDEMNIFY LOCALPORTAL, AND ITS SUBSIDIARI
 
 ## Contact Information
 
-For questions or concerns, please contact us at [hello@localserve.io](mailto:hello@localserve.io)
+For questions or concerns, please contact us at [hello@localportal.io](mailto:hello@localportal.io)
     
 ## Governing Law
 
