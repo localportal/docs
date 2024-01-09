@@ -2,7 +2,7 @@
 description: Data Processing Addendum (DPA)
 ---
 
-Last Updated: October 03, 2023
+Last Updated: January 09, 2024
 
 At Localportal, we are deeply committed to data privacy and protection. Understanding the importance of formal agreements in safeguarding data, we are prepared to invest time and effort to create a Data Processing Addendum ("DPA") tailored to the needs of our clients.
 
