@@ -2,9 +2,9 @@
 <html lang=en-US class=h-full>
   {% include head.html %}
 
-   <body class="docs relative w-full h-full antialiased text-gray-600">
-      <header class="fixed left-0 top-0 w-full h-20 bg-white border-b border-black border-opacity-10 bg-clip-padding z-50" role=banner>
-         <div class="w-full max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 h-full grid grid-cols-auto-span-auto items-center justify-between text-navy">
+   <body class="docs relative w-full h-full antialiased bg-gray-900">
+      <header class="fixed left-0 top-0 w-full h-20 bg-gray-900 border-b border-black border-opacity-10 bg-clip-padding z-50" role=banner>
+         <div class="w-full max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 h-full grid grid-cols-auto-span-auto items-center justify-between" style="color: #a9a9bd;">
           {% include logo-menu.html %}
             <div class="docsearch-wrapper relative hidden sm:block md:w-full max-w-3xl xl:max-w-[40rem] 2xl:max-w-3xl mx-auto">
                <svg class="text-gray-400 absolute pointer-events-none w-4 h-4 left-4 top-1/2 transform -translate-y-1/2 z-10" viewBox="0 0 20 20" fill=currentColor aria-hidden=true>
@@ -33,13 +33,13 @@
          <div class="hidden md:block w-60 h-full flex-shrink-0"></div>
          {% include sidebar.html %}
          <div class="min-w-0 w-full max-w-3xl xl:max-w-[40rem] 2xl:max-w-3xl mx-auto">
-            <article class="text-gray-500 leading-relaxed">                              
-               {% if page.title %}<h1 class="w-full font-heading text-navy leading-tight text-[2rem] mb-6"> {{ page.title}} </h1>{% endif %}
+            <article class="leading-relaxed" style="color: #a9a9bd;">
+               {% if page.title %}<h1 style="color: #fff;" class="w-full font-heading leading-tight text-[2rem] mb-6"> {{ page.title}} </h1>{% endif %}
                {% include page-header.html %}
                {{ content }}
             </article></div>
          <div class="hidden xl:block w-60 h-full flex-shrink-0"></div>
-         <div class="hidden xl:block fixed top-0 pt-36 pb-16 pl-0.5 w-60 h-full md:text-[13px] text-navy leading-5 docs-right-sidebar">
+         <div style="color: #a9a9bd;" class="hidden xl:block fixed top-0 pt-36 pb-16 pl-0.5 w-60 h-full md:text-[13px] leading-5 docs-right-sidebar">
             <a href="#" class="flex items-center text-sm font-semibold hover:text-violet-600 transition-colors pb-1 -ml-0.5 mb-1"> Need help? </a> 
             <nav class="flex flex-col relative" style="padding-bottom:15px">
                {% include editable.html %}
