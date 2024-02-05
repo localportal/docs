@@ -2,7 +2,7 @@
 description: Terms Of Service
 ---
 
-Last Updated: August 18, 2023
+Last Updated: February 5, 2024
 
 ## Agreement
     
@@ -52,10 +52,18 @@ By using the Localportal Services, you agree that you will not duplicate, distri
 You must not transmit or store unlawful content through the Localportal Services, including but not limited to, content that infringes upon third-party rights or is threatening, libelous, or obscene. Engaging in deceptive activities, such as "phishing," or using the Localportal Services in a manner that may mislead others, is also prohibited.
 
 Using the Localportal Services to create or disseminate malicious software, such as viruses, worms, or Trojan horses, or to engage in activities that compromise the security or integrity of the Service, is not allowed. You must not violate any local, state, federal, or international laws, regulations, or third-party rights while using the Localportal Services. Finally, you must not use the Localportal Services in any way that conflicts with this Agreement or the rights and interests of others.
+
+## Fair Use Policy
+
+Localportal assumes its users will utilize the services fairly and responsibly, hence does not set upfront bandwidth limits. Nonetheless, to safeguard service quality and ensure availability for all, a monthly bandwidth cap of 2GB per user may be imposed on accounts displaying signs of exploitation. This measure aims to prevent system abuse and guarantee fair resource allocation. Localportal reserves the right to monitor bandwidth consumption to uphold this Fair Use Policy. Users observing potential policy breaches are urged to contact hello@localportal.io. Localportal is committed to investigating such reports diligently and taking necessary actions to maintain policy integrity.
     
 ## Termination Policy
 
 Localportal reserves the right to terminate or suspend your account and access to our services at any time, without notice, for conduct that violates these Terms or is harmful to other users, us, or third parties, or for any other reason.
+
+## Newsletter Subscription
+
+By creating an account with Localportal, you acknowledge and agree to subscribe to newsletters, marketing or promotional materials, and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us directly.
     
 ## Updates and Changes
 
