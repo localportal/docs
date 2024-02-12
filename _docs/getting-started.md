@@ -18,24 +18,30 @@ brew install localportal/tap/localportal
 For all other OS, run the following command:
 
 ```bash
-curl -L https://localportal.io/install | sudo sh
+curl -L https://localportal.io/install | sh
 ```
 
 ### Windows
 
-Currently, Localportal does not provide native support for Windows operating systems. We understand that this may be a crucial feature for some users, and we're actively working to expand our platform compatibility. If you're eager to see Windows support in Localportal, please help us prioritize this feature by upvoting the request on [here](https://localportal.io/support).
+For users on Windows, Localportal can be installed using the Windows Subsystem for Linux (WSL). 
+
+```bash
+curl -L https://localportal.io/install | sh
+```
+
+Localportal does not currently offer native support for Windows operating systems. We are committed to broadening our platform compatibility and encourage users to express their interest in Windows support by providing feedback [here](https://localportal.io/support).
 
 ### Docker
 
 Docker support for Localportal is in our roadmap, and our development team is working diligently to bring this feature to you. Your input and feedback can guide our development priorities, so if Docker support is essential for your use case, please upvote the feature request on our [support page](https://localportal.io/support).
 
 
-## Linking Your Machine
+## Connecting Your Machine
 
-Now that Localportal is installed, you can link your machine to Localportal with a unique link name using the following command:
+Now that Localportal is installed, you can connect your machine to Localportal with a unique name using the following command:
 
 ```bash
-localportal link <link-name>
+localportal link <your-machine-name>
 ```
 
 This will require authentication, and all you need to do is follow the instructions shown on the terminal or the browser page that opens.
