@@ -1,0 +1,34 @@
+Localportal is a pseudo operating system that users can install (a binary CLI) on local machines or cloud computers to get a public URL to a pseudo desktop that they can access from the browser. For local machines, I have in built reverse tunnelling and for public machines, we use the same reverse tunnelling technology for users get the public URL. Users can run the binary in a "local network" mode and a normal model. The local network mode doesn't even require user to be logged in. They just run the binary and get a multicast URL that is only accessible in the same network. For the normal mode, their request goes through my intermediary server and thats how they get a public URL. Eventually, I'll add an option to them to not use my intermediary server and directly point to their public server's IP. But this only works for public machines that has an IP. 
+
+The pseudo operating system currently have four apps.
+1. A terminal app, that let them open n number of terminals on their remote machines. 
+2. A filesystem app that allow them to use the remote filesystem just like local filesystem but also allows them to download or upload files to their machines
+3. Jupyter notebook app
+4. Expose port app that allows them to expose any port from the remote machine and get a public URL for that exposed port. These exposed ports can also put behind authentication if they want to. By default each exposed port would be pulically accessible but they can enable authentication. 
+
+They also have the ability to share the whole desktop to others over email. For the local network version I mentioned before, they can't share the desktop over email but they can share the URL to anyone and it is only accessible with a password. 
+
+.
+├── getting-started
+│   ├── overview
+│   ├── installation
+│   ├── setup
+│   ├── features
+│   ├── ui
+│   └── requirements
+├── core-concepts
+│   ├── pseudo-os
+│   ├── reverse-tunneling
+│   └── local-only
+├── apps
+│   ├── terminal
+│   ├── filesystem
+│   ├── jupyter-notebook
+│   ├── expose-port
+│   └── app-store
+├── desktop-sharing
+│   └── overview
+└── company
+    ├── terms-of-service
+    ├── privacy-policy
+    └── data-processing-addendum

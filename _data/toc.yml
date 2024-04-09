@@ -1,16 +1,55 @@
-- title: Documentation
-  url: 
+- title: "Getting Started"
+  url: "getting-started"
   links:
-    - title: "Getting Started"
-      url: "getting-started"
-    - title: "Naming Your Link Server"
-      url: "naming-your-link-server"
+    - title: "Installation"
+      url: "getting-started/installation"
+    - title: "Connecting Your Machine"
+      url: "getting-started/connecting-your-machine"
+    - title: "Key Features and Benefits"
+      url: "getting-started/features"
+    - title: "Understanding the User Interface"
+      url: "getting-started/ui"
+    - title: "Same As Ngrok?"
+      url: "getting-started/ngrok-vs-localportal"
+    - title: "Same As Teamviewer?"
+      url: "getting-started/ngrok-vs-localportal"
+
+- title: "Core Concepts"
+  url: "core-concepts"
+  links:
+    - title: "Pseudo Operating System"
+      url: "core-concepts/pseudo-os"
+    - title: "Reverse Tunneling"
+      url: "core-concepts/reverse-tunneling"
+    - title: "Local Only Mode"
+      url: "core-concepts/local-only"
+
+- title: "Apps"
+  url: "apps"
+  links:
+    - title: "Terminal"
+      url: "applications/terminal"
+    - title: "Filesystem"
+      url: "applications/filesystem"
+    - title: "Jupyter Notebook"
+      url: "applications/jupyter-notebook"
+    - title: "Expose Port"
+      url: "applications/expose-port"
+    - title: "App Store"
+      url: "applications/app-store"
+
+- title: "Desktop Sharing"
+  url: "desktop-sharing"
+  links:
+    - title: "desktop-sharing"
+      url: "desktop-sharing/overview"
+
 - title: "Company"
   url: "company"
   links:
-    - title: Terms-of-Service
+    - title: "Terms-of-Service"
       url: "company/terms-of-service"
-    - title: Privacy Policy
+    - title: "Privacy Policy"
       url: "company/privacy-policy"
-    - title: DPA
+    - title: "Data Processing Addendum (DPA)"
       url: "company/data-processing-addendum"

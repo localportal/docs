@@ -1,16 +1,22 @@
 ---
 layout: page
-title: Localportal Docs
+title: Localportal Developer Documentation
 permalink: /
 ---
 
-# Welcome!
+Imagine having the freedom to access your machine from anywhere, making your local machine or cloud compute not just a standalone system but a portal to your personalized digital workspace. That's what localportal is all about. It’s like having a magic link that connects you directly to your work or projects through a simple public URL, no matter where you are. With localportal, the concept of being tied to a physical location because of computing needs becomes obsolete. You can manage files, run Jupyter notebooks, expose ports, and do so much more, all without the need for carrying around heavy computing equipment. This is particularly liberating in an era where computing demands are ever-increasing.
 
-Localportal is the straightforward accessibility solution for developers and tech enthusiasts who value efficiency and flexibility. More than just a reverse-proxy app, this tool adapts to your workflow without the fuss. From exposing a local web server for testing, setting it up for production, and facilitating webhooks to granting instant terminal access to multiple edge devices and offering innovative ways to manage files, Localportal is designed to cut through the complexity. Join us in exploring a smarter way to access.
+This guide is designed to help you navigate through the installation, configuration, and operation of Localportal, a pioneering pseudo operating system that transforms your local machines or cloud computers into accessible, secure, and versatile workspaces.
 
-## Why
+- **[Getting Started](/getting-started/overview)** introduces Localportal, guiding you through the initial steps from installation to exploring the key features that make Localportal your defacto remote access tool.
 
-In a landscape cluttered with reverse proxy services, each offering bits and pieces of accessibility, Localportal emerges with a clear mission. Existing solutions might allow terminal access with ease or enable SSH connections, while others focus on exposing local webservers. However, no tool seamlessly integrated all the ways users might want to access their machines. It's a fragmented space where Localportal saw an opportunity to innovate. {% include callout.html text="Localportal: A singular hub, designed to give users accessibility to their machines in different ways, super easily." %} No more juggling between tools or settling for partial solutions. Localportal reimagines reverse proxy services as a cohesive, user-friendly platform that meets today's tech demands. It's not just another service; it's the answer to accessibility redefined.
+- **[Core Concepts](/core-concepts/pseudo-os)** dives deeper into the technologies and methodologies that power Localportal, giving you a solid foundation to understand its capabilities and how it can fit into your workflow.
 
-For getting started with development, see the [Getting started](/docs/getting-started) page. Would you like to request a feature or raise an issue? [Open an issue](https://support.localportal.io)
+- Under **[Apps](/apps/terminal)**, you’ll find detailed documentation on the integrated applications that enhance your remote work experience, including how to use the terminal app, filesystem, Jupyter Notebook, and others.
+
+- **[Desktop Sharing](/desktop-sharing/overview)** explains how to share your Localportal desktop, facilitating collaboration or assistance from others with ease.
+
+- Lastly, the **[Company](/company/terms-of-service)** section outlines important information regarding our Terms-of-Service, Privacy Policy, and Data Processing Addendum (DPA), ensuring transparency and trust in how we operate and handle data.
+
+Dive in to discover how Localportal can revolutionize how you access and operate your computers. If you have any questions or need further assistance, please don't hesitate to reach out through our support channels.
 
