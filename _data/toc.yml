@@ -9,6 +9,8 @@
       url: "getting-started/features"
     - title: "Understanding the User Interface"
       url: "getting-started/understanding-user-interface"
+    - title: "Naming Your Machine"
+      url: "getting-started/naming-your-machine"
     - title: "Same As Ngrok?"
       url: "getting-started/same-as-ngrok"
     - title: "Same As Teamviewer?"
