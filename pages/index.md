@@ -8,11 +8,9 @@ Imagine having the freedom to access your machine from anywhere, making your loc
 
 This guide is designed to help you navigate through the installation, configuration, and operation of Localportal, a pioneering pseudo operating system that transforms your local machines or cloud computers into accessible, secure, and versatile workspaces.
 
-- **[Getting Started](/docs/getting-started/installation/)** introduces Localportal, guiding you through the initial steps from installation to exploring the key features that make Localportal your defacto remote access tool.
+- **[Getting Started](/docs/getting-started/)** introduces Localportal, guiding you through the initial steps from installation to exploring the key features that make Localportal your defacto remote access tool.
 
-- **[Core Concepts](/docs/core-concepts/pseudo-os/)** dives deeper into the technologies and methodologies that power Localportal, giving you a solid foundation to understand its capabilities and how it can fit into your workflow.
-
-- Under **[Apps](/docs/apps/terminal/)**, you’ll find detailed documentation on the integrated applications that enhance your remote work experience, including how to use the terminal app, filesystem, Jupyter Notebook, and others.
+- **[Core Concepts](/docs/core-concepts/)** dives deeper into the technologies and methodologies that power Localportal, giving you a solid foundation to understand its capabilities and how it can fit into your workflow.
 
 - **[Desktop Sharing](/docs/desktop-sharing/desktop-sharing/)** explains how to share your Localportal desktop, facilitating collaboration or assistance from others with ease.
 
