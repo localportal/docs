@@ -1,5 +1,5 @@
 ---
-description: Desktop Sharing
+description: Sharing And Collaboration
 ---
 
-- [Desktop Sharing](/docs/desktop-sharing/desktop-sharing/)
+- [Desktop Sharing](/docs/sharing-and-collaboration/desktop-sharing/)

@@ -37,7 +37,7 @@ Replace <your-machine-name> with a name you choose for your machine. This name h
 ### Authentication
 
 After running the above command, Localportal will prompt you for authentication. Follow the instructions on the screen go create an account if you don't have one. If you do have an account,
-the instructions on the terminal will guide you to get the API key that you need to copy and paste for once. Once authenticated, your machine will be linked to Localportal, and you'll receive a unique public URL for accessing your pseudo desktop remotely. This is a secure URL and by default only you'll be able to access the machine. Refer to [desktop sharing](/docs/desktop-sharing/desktop-sharing/) to learn how to share your desktop with others.
+the instructions on the terminal will guide you to get the API key that you need to copy and paste for once. Once authenticated, your machine will be linked to Localportal, and you'll receive a unique public URL for accessing your pseudo desktop remotely. This is a secure URL and by default only you'll be able to access the machine. Refer to [desktop sharing](/docs/sharing-and-collaboration/desktop-sharing/) to learn how to share your desktop with others.
 
 Congratulations! You're now ready to explore the world of Localportal and experience accessibility like never before. Dive in and discover how Localportal adapts to your needs, effortlessly.
 
