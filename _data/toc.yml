@@ -9,6 +9,8 @@
       url: "getting-started/features/"
     - title: "Understanding the User Interface"
       url: "getting-started/understanding-user-interface/"
+    - title: "Smart Routing"
+      url: "getting-started/smart-routing/"
     - title: "Naming Your Machine"
       url: "getting-started/naming-your-machine/"
     - title: "How does it differ from Ngrok?"

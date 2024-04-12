@@ -1,5 +1,6 @@
 Localportal is a pseudo operating system that users can install (a binary CLI) on local machines or cloud computers to get a public URL to a pseudo desktop that they can access from the browser. For local machines, I have in built reverse tunnelling and for public machines, we use the same reverse tunnelling technology for users get the public URL. Users can run the binary in a "local network" mode and a normal model. The local network mode doesn't even require user to be logged in. They just run the binary and get a multicast URL that is only accessible in the same network. For the normal mode, their request goes through my intermediary server and thats how they get a public URL. Eventually, I'll add an option to them to not use my intermediary server and directly point to their public server's IP. But this only works for public machines that has an IP. 
-
+Localportal is light weight, single binary that can be installed on different platforms like Ubuntu, Windows (WSL) and mac
+Localportal is "Opensource To Be", meaning it is scheduled to be opensource at https://github.com/localportal/localportal
 The pseudo operating system currently have four apps.
 1. A terminal app, that let them open n number of terminals on their remote machines. 
 2. A filesystem app that allow them to use the remote filesystem just like local filesystem but also allows them to download or upload files to their machines
