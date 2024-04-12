@@ -12,7 +12,7 @@ This guide is designed to help you navigate through the installation, configurat
 
 - **[Core Concepts](/docs/core-concepts/)** dives deeper into the technologies and methodologies that power Localportal, giving you a solid foundation to understand its capabilities and how it can fit into your workflow.
 
-- **[Sharing And Collaboration](/docs/sharing-and-collaboration)** explains how to share your Localportal desktop, facilitating collaboration or assistance from others with ease.
+- **[Sharing And Collaboration](/docs/sharing-and-collaboration/)** explains how to share your Localportal desktop, facilitating collaboration or assistance from others with ease.
 
 - Lastly, the **[Company](/docs/company/terms-of-service/)** section outlines important information regarding our Terms-of-Service, Privacy Policy, and Data Processing Addendum (DPA), ensuring transparency and trust in how we operate and handle data.
 
